@@ -1,9 +1,9 @@
-package com.example;
+package com.harrystyles.levelreqs;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class ExamplePluginTest
+public class LevelRequirementsPluginTest
 {
 	public static void main(String[] args) throws Exception
 	{
