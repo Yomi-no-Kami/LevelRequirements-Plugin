@@ -7,7 +7,7 @@ public class LevelRequirementsPluginTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(ExamplePlugin.class);
+		ExternalPluginManager.loadBuiltin(LevelRequirementsPlugin.class);
 		RuneLite.main(args);
 	}
 }
